@@ -1,6 +1,6 @@
-# 🌐 Cardano Blockchain Developer Portfolio
+# 🌐 Blockchain Developer
 
-Hi, I’m **[Your Name]**, a blockchain developer passionate about building secure and user-friendly applications on **Cardano**.  
+Hi, I’m **Taka**, a blockchain developer passionate about building secure and user-friendly applications on **Cardano**.  
 My expertise spans **Plutus smart contracts**, **NFTs**, **DeFi**, and **dApp front-ends** with Cardano wallet integration.
 
 ---
