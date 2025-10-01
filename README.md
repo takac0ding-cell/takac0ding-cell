@@ -1,6 +1,6 @@
-# 🌐 Cardano Blockchain Developer Portfolio
+# 🌐 Blockchain Developer 
 
-Hi, I’m **[Your Name]**, a blockchain developer passionate about building secure and user-friendly applications on **Cardano**.  
+Hi, I’m **Taka**, a blockchain developer passionate about building secure and user-friendly applications on **Cardano**.  
 My expertise spans **Plutus smart contracts**, **NFTs**, **DeFi**, and **dApp front-ends** with Cardano wallet integration.
 
 ---
@@ -11,7 +11,7 @@ My expertise spans **Plutus smart contracts**, **NFTs**, **DeFi**, and **dApp fr
 - **Blockchain Tools**: cardano-cli, cardano-node, Blockfrost API, Plutus Application Backend (PAB)  
 - **Wallet Integration**: CIP-30 (Nami, Eternl, Lace)  
 - **Other**: NFT standards (CIP-25, CIP-68), governance contracts, token minting  
-
+<!-- 
 ---
 
 ## 📂 Projects
@@ -64,6 +64,6 @@ My expertise spans **Plutus smart contracts**, **NFTs**, **DeFi**, and **dApp fr
 - 🐦 Twitter: [Your Twitter/Handle]  
 - 📧 Email: [Your Email]  
 
----
+--- -->
 
 ✨ *Always experimenting with new dApps, NFTs, and DeFi ideas on Cardano. Open to collaborations and contributions!*
