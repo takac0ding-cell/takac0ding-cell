@@ -57,13 +57,11 @@ My expertise spans **Plutus smart contracts**, **NFTs**, **DeFi**, and **dApp fr
 - [Medium/Dev.to/Hashnode link] – I write about Cardano development, smart contract patterns, and blockchain design.  
 
 ---
-
 ## 📬 Contact
 - 🌐 Website: [YourSite.com]  
 - 💼 LinkedIn: [Your LinkedIn]  
 - 🐦 Twitter: [Your Twitter/Handle]  
 - 📧 Email: [Your Email]  
-
 ---
 
 ✨ *Always experimenting with new dApps, NFTs, and DeFi ideas on Cardano. Open to collaborations and contributions!*
